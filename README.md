@@ -17,6 +17,7 @@
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/binary-search/">Binary Search</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/two-sum/">Two-Sum</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates</a></li>
   </ul>
 </div>
 
