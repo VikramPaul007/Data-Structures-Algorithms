@@ -18,6 +18,12 @@
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/two-sum/">Two-Sum</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/length-of-last-word/">Length of Last Word</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle Detection</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy & Sell Stocks</a></li>
   </ul>
 </div>
 
