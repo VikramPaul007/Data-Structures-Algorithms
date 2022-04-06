@@ -24,6 +24,9 @@
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle Detection</a></li>
     <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy & Sell Stocks</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/same-tree/">Is Same Tree?</a></li>
+    <li><a target="_blank" class="link-info" href="https://leetcode.com/problems/valid-palindrome/">Post-Order Traversal</a></li>
   </ul>
 </div>
 
